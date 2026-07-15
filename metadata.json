@@ -1,0 +1,6 @@
+{
+  "name": "Aura Stadium OS",
+  "description": "An AI-Agent-driven Cognitive Orchestrator for the FIFA World Cup 2026. It integrates smart crowd-routed navigation, real-time bottleneck predictions, adaptive transit syncing, multi-lingual volunteer translation, and localized emergency safety broadcasts in a unified interactive simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
